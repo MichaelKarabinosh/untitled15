@@ -1,10 +1,6 @@
-Number of five of a kind hands: 0
-Number of full house hands: 0
-Number of four of a kind hands: 0
-Number of three of a kind hands: 2
-Number of two pair hands: 2
-Number of one pair hands: 1
-Number of high card hands: 0
-Total Bid Value: 6440
-Total Bid Value With Jacks Wild: 5905
+3,2,10,3,King|765
+10,5,5,Jack,5|684
+King,King,6,7,7|28
+King,10,Jack,Jack,10|220
+Queen,Queen,Queen,Jack,Ace|483
 
